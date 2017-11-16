@@ -1,0 +1,35 @@
+LIRI Log: spotify-this-song Hello
+LIRI Log: Hello
+LIRI Log: Adele
+LIRI Log: Hello
+LIRI Log: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=329b740270334bb79e12a4a12b71fb64
+LIRI Log: spotify-this-song undefined
+LIRI Log: Ace of Base
+LIRI Log: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=329b740270334bb79e12a4a12b71fb64
+LIRI Log: The Sign (US Album) [Remastered]
+LIRI Log: The Sign
+LIRI Log: do-what-it-says undefined
+LIRI Log: spotify-this-song "I Want it That Way"
+LIRI Log: Backstreet Boys
+LIRI Log: The Hits--Chapter One
+LIRI Log: I Want It That Way
+LIRI Log: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=329b740270334bb79e12a4a12b71fb64
+LIRI Log: my-tweets undefined
+LIRI Log: Really enjoying developing Node.js Apps Thu Nov 16 16:25:42 +0000 2017 By LiriFerenc
+LIRI Log: Very First Tweet! Thu Nov 16 16:25:20 +0000 2017 By LiriFerenc
+LIRI Log: movie-this undefined
+LIRI Log: Title: Mr. Nobody
+LIRI Log: Year: 2009
+LIRI Log: IMDB Rating: 7.9/10
+LIRI Log: Rotten Tomatoes: 66%
+LIRI Log: Country: Belgium, Germany, Canada, France, USA, UK
+LIRI Log: Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+LIRI Log: Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+LIRI Log: movie-this Transformers
+LIRI Log: IMDB Rating: 7.1/10
+LIRI Log: Title: Transformers
+LIRI Log: Year: 2007
+LIRI Log: Rotten Tomatoes: 57%
+LIRI Log: Country: USA
+LIRI Log: Plot: An ancient struggle between two Cybertronian races, the heroic Autobots and the evil Decepticons, comes to Earth, with a clue to the ultimate power held by a teenager.
+LIRI Log: Actors: Shia LaBeouf, Megan Fox, Josh Duhamel, Tyrese Gibson
