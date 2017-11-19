@@ -33,3 +33,67 @@ LIRI Log: Rotten Tomatoes: 57%
 LIRI Log: Country: USA
 LIRI Log: Plot: An ancient struggle between two Cybertronian races, the heroic Autobots and the evil Decepticons, comes to Earth, with a clue to the ultimate power held by a teenager.
 LIRI Log: Actors: Shia LaBeouf, Megan Fox, Josh Duhamel, Tyrese Gibson
+LIRI Log: mytweets undefined
+LIRI Log: mytweet undefined
+LIRI Log: my-tweets undefined
+LIRI Log: Really enjoying developing Node.js Apps Thu Nov 16 16:25:42 +0000 2017 By LiriFerenc
+LIRI Log: Very First Tweet! Thu Nov 16 16:25:20 +0000 2017 By LiriFerenc
+LIRI Log: spotify-this-song Cotten
+LIRI Log: Eric Church
+LIRI Log: 61 Days In Church Volume 3
+LIRI Log: Baby I Love You - Live At Staples Center, Los Angeles, CA / March 31, 2017
+LIRI Log: null
+LIRI Log: spotify-this-song Hello
+LIRI Log: Adele
+LIRI Log: Hello
+LIRI Log: Hello
+LIRI Log: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=329b740270334bb79e12a4a12b71fb64
+LIRI Log: movie-this Thor
+LIRI Log: Title: Thor
+LIRI Log: IMDB Rating: 7.0/10
+LIRI Log: Year: 2011
+LIRI Log: Rotten Tomatoes: 77%
+LIRI Log: Country: USA
+LIRI Log: Plot: The powerful, but arrogant god Thor, is cast out of Asgard to live amongst humans in Midgard (Earth), where he soon becomes one of their finest defenders.
+LIRI Log: Actors: Chris Hemsworth, Natalie Portman, Tom Hiddleston, Anthony Hopkins
+LIRI Log: my-tweets undefined
+LIRI Log: Really enjoying developing Node.js Apps Thu Nov 16 16:25:42 +0000 2017 By LiriFerenc
+LIRI Log: Very First Tweet! Thu Nov 16 16:25:20 +0000 2017 By LiriFerenc
+LIRI Log: undefined undefined
+LIRI Log: spotify-this-song Youth
+LIRI Log: Troye Sivan
+LIRI Log: Blue Neighbourhood (Deluxe)
+LIRI Log: YOUTH
+LIRI Log: null
+LIRI Log: spotify-this-song Youth Chainsmokers 
+LIRI Log: The Shape Shifters
+LIRI Log: Planet Of The Shapes
+LIRI Log: https://p.scdn.co/mp3-preview/118fe1a0e8d7cbd9f360778124ff2363d785930c?cid=329b740270334bb79e12a4a12b71fb64
+LIRI Log: The Youth Of Today
+LIRI Log: spotify-this-song undefined
+LIRI Log: Ace of Base
+LIRI Log: The Sign (US Album) [Remastered]
+LIRI Log: The Sign
+LIRI Log: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=329b740270334bb79e12a4a12b71fb64
+LIRI Log: movie-this undefined
+LIRI Log: Title: Mr. Nobody
+LIRI Log: Year: 2009
+LIRI Log: IMDB Rating: 7.9/10
+LIRI Log: Rotten Tomatoes: 66%
+LIRI Log: Country: Belgium, Germany, Canada, France, USA, UK
+LIRI Log: Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+LIRI Log: Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+LIRI Log: movie-this Avatar
+LIRI Log: Year: 2009
+LIRI Log: Title: Avatar
+LIRI Log: IMDB Rating: 7.8/10
+LIRI Log: Rotten Tomatoes: 84%
+LIRI Log: Country: UK, USA
+LIRI Log: Plot: A paraplegic marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.
+LIRI Log: Actors: Sam Worthington, Zoe Saldana, Sigourney Weaver, Stephen Lang
+LIRI Log: do-what-it-says undefined
+LIRI Log: spotify-this-song "I Want it That Way"
+LIRI Log: Backstreet Boys
+LIRI Log: I Want It That Way
+LIRI Log: The Hits--Chapter One
+LIRI Log: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=329b740270334bb79e12a4a12b71fb64
