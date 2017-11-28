@@ -97,3 +97,399 @@ LIRI Log: Backstreet Boys
 LIRI Log: I Want It That Way
 LIRI Log: The Hits--Chapter One
 LIRI Log: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=329b740270334bb79e12a4a12b71fb64
+LIRI Log: undefined 
+LIRI Log: my-tweets 
+LIRI Log: Really enjoying developing Node.js Apps Thu Nov 16 16:25:42 +0000 2017 By LiriFerenc
+LIRI Log: Very First Tweet! Thu Nov 16 16:25:20 +0000 2017 By LiriFerenc
+LIRI Log: spotify-this-song 
+LIRI Log: spotify-this-song 
+LIRI Log: spotify-this-song 
+LIRI Log: spotify-this-song 
+LIRI Log: spotify-this-song 
+LIRI Log: Ace of Base
+LIRI Log: The Sign (US Album) [Remastered]
+LIRI Log: The Sign
+LIRI Log: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=329b740270334bb79e12a4a12b71fb64
+LIRI Log: Ace of Base
+LIRI Log: All That She Wants
+LIRI Log: The Sign (US Album) [Remastered]
+LIRI Log: https://p.scdn.co/mp3-preview/b176774bc04182501c2d5d201afda143b1193f31?cid=329b740270334bb79e12a4a12b71fb64
+LIRI Log: Ace of Base
+LIRI Log: Greatest Hits
+LIRI Log: The Sign
+LIRI Log: https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=329b740270334bb79e12a4a12b71fb64
+LIRI Log: Ace of Base
+LIRI Log: The Sign (US Album) [Remastered]
+LIRI Log: Don't Turn Around
+LIRI Log: https://p.scdn.co/mp3-preview/9c8401c8142bdd011e51f0211be2e2d4afcd5cff?cid=329b740270334bb79e12a4a12b71fb64
+LIRI Log: Ace of Base
+LIRI Log: The Sign (US Album) [Remastered]
+LIRI Log: Wheel of Fortune
+LIRI Log: https://p.scdn.co/mp3-preview/fd501a60ee611fda1dbb1c238d802fece5880dfc?cid=329b740270334bb79e12a4a12b71fb64
+LIRI Log: spotify-this-song 
+LIRI Log: Artist: Ace of Base
+LIRI Log: Song Name: The Sign
+LIRI Log: Album: The Sign (US Album) [Remastered]
+LIRI Log: Preview URL: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=329b740270334bb79e12a4a12b71fb64
+LIRI Log: Artist: Ace of Base
+LIRI Log: Album: The Sign (US Album) [Remastered]
+LIRI Log: Song Name: All That She Wants
+LIRI Log: Preview URL: https://p.scdn.co/mp3-preview/b176774bc04182501c2d5d201afda143b1193f31?cid=329b740270334bb79e12a4a12b71fb64
+LIRI Log: Artist: Ace of Base
+LIRI Log: Song Name: The Sign
+LIRI Log: Album: Greatest Hits
+LIRI Log: Preview URL: https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=329b740270334bb79e12a4a12b71fb64
+LIRI Log: Artist: Ace of Base
+LIRI Log: Album: The Sign (US Album) [Remastered]
+LIRI Log: Song Name: Don't Turn Around
+LIRI Log: Preview URL: https://p.scdn.co/mp3-preview/9c8401c8142bdd011e51f0211be2e2d4afcd5cff?cid=329b740270334bb79e12a4a12b71fb64
+LIRI Log: Artist: Ace of Base
+LIRI Log: Album: The Sign (US Album) [Remastered]
+LIRI Log: Song Name: Wheel of Fortune
+LIRI Log: Preview URL: https://p.scdn.co/mp3-preview/fd501a60ee611fda1dbb1c238d802fece5880dfc?cid=329b740270334bb79e12a4a12b71fb64
+LIRI Log: spotify-this-song 
+LIRI Log: Artist: Ace of Base
+LIRI Log: Album: The Sign (US Album) [Remastered]
+LIRI Log: Song Name: The Sign
+LIRI Log: Preview URL: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=329b740270334bb79e12a4a12b71fb64
+LIRI Log: ======================
+
+LIRI Log: Artist: Ace of Base
+LIRI Log: Album: The Sign (US Album) [Remastered]
+LIRI Log: Song Name: All That She Wants
+LIRI Log: Preview URL: https://p.scdn.co/mp3-preview/b176774bc04182501c2d5d201afda143b1193f31?cid=329b740270334bb79e12a4a12b71fb64
+LIRI Log: ======================
+
+LIRI Log: Artist: Ace of Base
+LIRI Log: Album: Greatest Hits
+LIRI Log: Song Name: The Sign
+LIRI Log: Preview URL: https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=329b740270334bb79e12a4a12b71fb64
+LIRI Log: ======================
+
+LIRI Log: Artist: Ace of Base
+LIRI Log: Album: The Sign (US Album) [Remastered]
+LIRI Log: Song Name: Don't Turn Around
+LIRI Log: Preview URL: https://p.scdn.co/mp3-preview/9c8401c8142bdd011e51f0211be2e2d4afcd5cff?cid=329b740270334bb79e12a4a12b71fb64
+LIRI Log: ======================
+
+LIRI Log: Artist: Ace of Base
+LIRI Log: Album: The Sign (US Album) [Remastered]
+LIRI Log: Song Name: Wheel of Fortune
+LIRI Log: Preview URL: https://p.scdn.co/mp3-preview/fd501a60ee611fda1dbb1c238d802fece5880dfc?cid=329b740270334bb79e12a4a12b71fb64
+LIRI Log: ======================
+
+LIRI Log: spotify-this-song 
+LIRI Log: Song Name: The Sign
+LIRI Log: Artist: Ace of Base
+LIRI Log: Album: The Sign (US Album) [Remastered]
+LIRI Log: Preview URL: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=329b740270334bb79e12a4a12b71fb64
+LIRI Log: ======================
+
+LIRI Log: Song Name: All That She Wants
+LIRI Log: Artist: Ace of Base
+LIRI Log: Album: The Sign (US Album) [Remastered]
+LIRI Log: Preview URL: https://p.scdn.co/mp3-preview/b176774bc04182501c2d5d201afda143b1193f31?cid=329b740270334bb79e12a4a12b71fb64
+LIRI Log: ======================
+
+LIRI Log: Song Name: The Sign
+LIRI Log: Artist: Ace of Base
+LIRI Log: Album: Greatest Hits
+LIRI Log: Preview URL: https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=329b740270334bb79e12a4a12b71fb64
+LIRI Log: ======================
+
+LIRI Log: Song Name: Don't Turn Around
+LIRI Log: Artist: Ace of Base
+LIRI Log: Album: The Sign (US Album) [Remastered]
+LIRI Log: Preview URL: https://p.scdn.co/mp3-preview/9c8401c8142bdd011e51f0211be2e2d4afcd5cff?cid=329b740270334bb79e12a4a12b71fb64
+LIRI Log: ======================
+
+LIRI Log: Song Name: Wheel of Fortune
+LIRI Log: Artist: Ace of Base
+LIRI Log: Album: The Sign (US Album) [Remastered]
+LIRI Log: Preview URL: https://p.scdn.co/mp3-preview/fd501a60ee611fda1dbb1c238d802fece5880dfc?cid=329b740270334bb79e12a4a12b71fb64
+LIRI Log: ======================
+
+LIRI Log: spotify-this-song What I want
+LIRI Log: Song Name: Do What I Want
+LIRI Log: Artist: Lil Uzi Vert
+LIRI Log: Album: The Perfect LUV Tape
+LIRI Log: Preview URL: https://p.scdn.co/mp3-preview/7d345faf78443ef157bd2388652f0daa1b027209?cid=329b740270334bb79e12a4a12b71fb64
+LIRI Log: ======================
+
+LIRI Log: Song Name: All I Want
+LIRI Log: Artist: A Day To Remember
+LIRI Log: Album: What Separates Me From You
+LIRI Log: Preview URL: https://p.scdn.co/mp3-preview/ec7325d3313463c07588444c5d14508289a35089?cid=329b740270334bb79e12a4a12b71fb64
+LIRI Log: ======================
+
+LIRI Log: Song Name: I Want To Know What Love Is - Remastered
+LIRI Log: Artist: Foreigner
+LIRI Log: Album: Agent Provocateur
+LIRI Log: Preview URL: https://p.scdn.co/mp3-preview/cb8c1bc4a400807b09d60c5c7d7402acdfe79988?cid=329b740270334bb79e12a4a12b71fb64
+LIRI Log: ======================
+
+LIRI Log: Song Name: All I Want
+LIRI Log: Artist: WALK THE MOON
+LIRI Log: Album: What If Nothing
+LIRI Log: Preview URL: https://p.scdn.co/mp3-preview/a04b1f6c0b9c27fde05966a21f25e620eb42e3f6?cid=329b740270334bb79e12a4a12b71fb64
+LIRI Log: ======================
+
+LIRI Log: Song Name: I Know What You Want
+LIRI Log: Artist: Busta Rhymes
+LIRI Log: Album: It Ain't Safe No More. . .
+LIRI Log: Preview URL: https://p.scdn.co/mp3-preview/5537f3e8e73e10ba6cfbf9385b702570b655931a?cid=329b740270334bb79e12a4a12b71fb64
+LIRI Log: ======================
+
+LIRI Log: spotify-this-song What I want
+LIRI Log: Song Name: Do What I Want
+LIRI Log: Artist: Lil Uzi Vert
+LIRI Log: Album: The Perfect LUV Tape
+LIRI Log: Preview URL: https://p.scdn.co/mp3-preview/7d345faf78443ef157bd2388652f0daa1b027209?cid=329b740270334bb79e12a4a12b71fb64
+LIRI Log: ======================
+
+LIRI Log: Artist: A Day To Remember
+LIRI Log: Song Name: All I Want
+LIRI Log: Album: What Separates Me From You
+LIRI Log: Preview URL: https://p.scdn.co/mp3-preview/ec7325d3313463c07588444c5d14508289a35089?cid=329b740270334bb79e12a4a12b71fb64
+LIRI Log: ======================
+
+LIRI Log: Artist: Foreigner
+LIRI Log: Song Name: I Want To Know What Love Is - Remastered
+LIRI Log: Album: Agent Provocateur
+LIRI Log: Preview URL: https://p.scdn.co/mp3-preview/cb8c1bc4a400807b09d60c5c7d7402acdfe79988?cid=329b740270334bb79e12a4a12b71fb64
+LIRI Log: ======================
+
+LIRI Log: Song Name: All I Want
+LIRI Log: Artist: WALK THE MOON
+LIRI Log: Album: What If Nothing
+LIRI Log: Preview URL: https://p.scdn.co/mp3-preview/a04b1f6c0b9c27fde05966a21f25e620eb42e3f6?cid=329b740270334bb79e12a4a12b71fb64
+LIRI Log: ======================
+
+LIRI Log: Song Name: I Know What You Want
+LIRI Log: Artist: Busta Rhymes
+LIRI Log: Album: It Ain't Safe No More. . .
+LIRI Log: Preview URL: https://p.scdn.co/mp3-preview/5537f3e8e73e10ba6cfbf9385b702570b655931a?cid=329b740270334bb79e12a4a12b71fb64
+LIRI Log: ======================
+
+LIRI Log: spotify-this-song What I want
+LIRI Log: Song Name: Do What I Want
+LIRI Log: Album: The Perfect LUV Tape
+LIRI Log: Artist: Lil Uzi Vert
+LIRI Log: Preview URL: https://p.scdn.co/mp3-preview/7d345faf78443ef157bd2388652f0daa1b027209?cid=329b740270334bb79e12a4a12b71fb64
+LIRI Log: ======================
+
+LIRI Log: Song Name: All I Want
+LIRI Log: Artist: A Day To Remember
+LIRI Log: Album: What Separates Me From You
+LIRI Log: Preview URL: https://p.scdn.co/mp3-preview/ec7325d3313463c07588444c5d14508289a35089?cid=329b740270334bb79e12a4a12b71fb64
+LIRI Log: ======================
+
+LIRI Log: Song Name: I Want To Know What Love Is - Remastered
+LIRI Log: Artist: Foreigner
+LIRI Log: Album: Agent Provocateur
+LIRI Log: Preview URL: https://p.scdn.co/mp3-preview/cb8c1bc4a400807b09d60c5c7d7402acdfe79988?cid=329b740270334bb79e12a4a12b71fb64
+LIRI Log: ======================
+
+LIRI Log: Song Name: All I Want
+LIRI Log: Artist: WALK THE MOON
+LIRI Log: Album: What If Nothing
+LIRI Log: Preview URL: https://p.scdn.co/mp3-preview/a04b1f6c0b9c27fde05966a21f25e620eb42e3f6?cid=329b740270334bb79e12a4a12b71fb64
+LIRI Log: ======================
+
+LIRI Log: Song Name: I Know What You Want
+LIRI Log: Artist: Busta Rhymes
+LIRI Log: Album: It Ain't Safe No More. . .
+LIRI Log: Preview URL: https://p.scdn.co/mp3-preview/5537f3e8e73e10ba6cfbf9385b702570b655931a?cid=329b740270334bb79e12a4a12b71fb64
+LIRI Log: ======================
+
+LIRI Log: undefined 
+LIRI Log: movie-this 
+LIRI Log: Title: Mr. Nobody
+LIRI Log: Year: 2009
+LIRI Log: IMDB Rating: 7.9/10
+LIRI Log: Rotten Tomatoes: 66%
+LIRI Log: Country: Belgium, Germany, Canada, France, USA, UK
+LIRI Log: Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+LIRI Log: Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+LIRI Log: movie-this Forrest Gump
+LIRI Log: IMDB Rating: 8.8/10
+LIRI Log: Title: Forrest Gump
+LIRI Log: Year: 1994
+LIRI Log: Rotten Tomatoes: 71%
+LIRI Log: Country: USA
+LIRI Log: Plot: JFK, LBJ, Vietnam, Watergate, and other history unfold through the perspective of an Alabama man with an IQ of 75.
+LIRI Log: Actors: Tom Hanks, Rebecca Williams, Sally Field, Michael Conner Humphreys
+LIRI Log: movie-this Forrest ump
+LIRI Log: movie-this Forrest ump
+LIRI Log: spotify-this-song asdfasdfa
+LIRI Log: spotify-this-song asdfasdfa
+LIRI Log: spotify-this-song asdfasdfa
+LIRI Log: Sorry I couldn't find a song named asdfasdfa
+LIRI Log: spotify-this-song What I want
+LIRI Log: Sorry I couldn't find a song named What I want
+LIRI Log: spotify-this-song What I want
+LIRI Log: Song Name: Do What I Want
+LIRI Log: Artist: Lil Uzi Vert
+LIRI Log: Preview URL: https://p.scdn.co/mp3-preview/7d345faf78443ef157bd2388652f0daa1b027209?cid=329b740270334bb79e12a4a12b71fb64
+LIRI Log: Album: The Perfect LUV Tape
+LIRI Log: ======================
+
+LIRI Log: Song Name: All I Want
+LIRI Log: Artist: A Day To Remember
+LIRI Log: Album: What Separates Me From You
+LIRI Log: Preview URL: https://p.scdn.co/mp3-preview/ec7325d3313463c07588444c5d14508289a35089?cid=329b740270334bb79e12a4a12b71fb64
+LIRI Log: ======================
+
+LIRI Log: Song Name: I Want To Know What Love Is - Remastered
+LIRI Log: Artist: Foreigner
+LIRI Log: Album: Agent Provocateur
+LIRI Log: Preview URL: https://p.scdn.co/mp3-preview/cb8c1bc4a400807b09d60c5c7d7402acdfe79988?cid=329b740270334bb79e12a4a12b71fb64
+LIRI Log: ======================
+
+LIRI Log: Song Name: All I Want
+LIRI Log: Artist: WALK THE MOON
+LIRI Log: Album: What If Nothing
+LIRI Log: Preview URL: https://p.scdn.co/mp3-preview/a04b1f6c0b9c27fde05966a21f25e620eb42e3f6?cid=329b740270334bb79e12a4a12b71fb64
+LIRI Log: ======================
+
+LIRI Log: Song Name: I Know What You Want
+LIRI Log: Artist: Busta Rhymes
+LIRI Log: Album: It Ain't Safe No More. . .
+LIRI Log: Preview URL: https://p.scdn.co/mp3-preview/5537f3e8e73e10ba6cfbf9385b702570b655931a?cid=329b740270334bb79e12a4a12b71fb64
+LIRI Log: ======================
+
+LIRI Log: spotify-this-song asdfasdf
+LIRI Log: Artist: Katie Dey
+LIRI Log: Song Name: Fear o the Dark
+LIRI Log: Preview URL: https://p.scdn.co/mp3-preview/7ec5f5282a235c71edca3a6b42bcc42da95f27e0?cid=329b740270334bb79e12a4a12b71fb64
+LIRI Log: Album: Asdfasdf
+LIRI Log: ======================
+
+LIRI Log: Song Name: Don't Be Scared
+LIRI Log: Artist: Katie Dey
+LIRI Log: Album: Asdfasdf
+LIRI Log: Preview URL: https://p.scdn.co/mp3-preview/b8642e509412689adb587002dccc796f9db5a7b3?cid=329b740270334bb79e12a4a12b71fb64
+LIRI Log: ======================
+
+LIRI Log: Song Name: Unkillable
+LIRI Log: Artist: Katie Dey
+LIRI Log: Album: Asdfasdf
+LIRI Log: Preview URL: https://p.scdn.co/mp3-preview/e7b8d9ec82991ec0fb052ad654317406ec9a2868?cid=329b740270334bb79e12a4a12b71fb64
+LIRI Log: ======================
+
+LIRI Log: Song Name: You Gotta Get up to Get Up
+LIRI Log: Album: Asdfasdf
+LIRI Log: Artist: Katie Dey
+LIRI Log: Preview URL: https://p.scdn.co/mp3-preview/7be222e07e4affe6ca0bb6f018b7719be38d46e0?cid=329b740270334bb79e12a4a12b71fb64
+LIRI Log: ======================
+
+LIRI Log: Song Name: H o e
+LIRI Log: Artist: Katie Dey
+LIRI Log: Album: Asdfasdf
+LIRI Log: Preview URL: https://p.scdn.co/mp3-preview/fee6b02021c07ef966d1bc5ceb956d8418c311fa?cid=329b740270334bb79e12a4a12b71fb64
+LIRI Log: ======================
+
+LIRI Log: spotify-this-song as 12341
+LIRI Log: Sorry I couldn't find a song named as 12341
+LIRI Log: movie-this 
+LIRI Log: Year: 2009
+LIRI Log: Title: Mr. Nobody
+LIRI Log: IMDB Rating: 7.9/10
+LIRI Log: Rotten Tomatoes: 66%
+LIRI Log: Country: Belgium, Germany, Canada, France, USA, UK
+LIRI Log: Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+LIRI Log: Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+LIRI Log: movie-this 
+LIRI Log: Title: Mr. Nobody
+LIRI Log: Year: 2009
+LIRI Log: IMDB Rating: 7.9/10
+LIRI Log: Rotten Tomatoes: 66%
+LIRI Log: Country: Belgium, Germany, Canada, France, USA, UK
+LIRI Log: Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+LIRI Log: Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+LIRI Log: movie-this 
+LIRI Log: movie-this 
+LIRI Log: Title: Mr. Nobody
+LIRI Log: Year: 2009
+LIRI Log: IMDB Rating: 7.9/10
+LIRI Log: Rotten Tomatoes: 66%
+LIRI Log: Country: Belgium, Germany, Canada, France, USA, UK
+LIRI Log: Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+LIRI Log: Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+LIRI Log: movie-this 
+LIRI Log: movie-this 
+LIRI Log: Title: Mr. Nobody
+LIRI Log: Year: 2009
+LIRI Log: Rotten Tomatoes: 66%
+LIRI Log: IMDB Rating: 7.9/10
+LIRI Log: Country: Belgium, Germany, Canada, France, USA, UK
+LIRI Log: Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+LIRI Log: Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+LIRI Log: movie-this 
+LIRI Log: Title: Mr. Nobody
+LIRI Log: Year: 2009
+LIRI Log: Rotten Tomatoes: 66%
+LIRI Log: IMDB Rating: 7.9/10
+LIRI Log: Country: Belgium, Germany, Canada, France, USA, UK
+LIRI Log: Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+LIRI Log: Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+LIRI Log: movie-this 
+LIRI Log: Title: Mr. Nobody
+LIRI Log: IMDB Rating: 7.9/10
+LIRI Log: Year: 2009
+LIRI Log: Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+LIRI Log: Country: Belgium, Germany, Canada, France, USA, UK
+LIRI Log: Rotten Tomatoes: 66%
+LIRI Log: Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+LIRI Log: movie-this asdfasd
+LIRI Log: Sorry I couldn't find a movie named: asdfasd
+LIRI Log: movie-this Forest Gump
+LIRI Log: Sorry I couldn't find a movie named: Forest Gump
+LIRI Log: movie-this Forrest Gump
+LIRI Log: Year: 1994
+LIRI Log: IMDB Rating: 8.8/10
+LIRI Log: Rotten Tomatoes: 71%
+LIRI Log: Country: USA
+LIRI Log: Title: Forrest Gump
+LIRI Log: Plot: JFK, LBJ, Vietnam, Watergate, and other history unfold through the perspective of an Alabama man with an IQ of 75.
+LIRI Log: Actors: Tom Hanks, Rebecca Williams, Sally Field, Michael Conner Humphreys
+LIRI Log: movie-this 
+LIRI Log: Year: 2009
+LIRI Log: Title: Mr. Nobody
+LIRI Log: IMDB Rating: 7.9/10
+LIRI Log: Rotten Tomatoes: 66%
+LIRI Log: Country: Belgium, Germany, Canada, France, USA, UK
+LIRI Log: Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+LIRI Log: Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+LIRI Log: do-what-it-says 
+LIRI Log: spotify-this-song 
+LIRI Log: Artist: Ace of Base
+LIRI Log: Song Name: The Sign
+LIRI Log: Preview URL: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=329b740270334bb79e12a4a12b71fb64
+LIRI Log: Album: The Sign (US Album) [Remastered]
+LIRI Log: ======================
+
+LIRI Log: Song Name: All That She Wants
+LIRI Log: Artist: Ace of Base
+LIRI Log: Album: The Sign (US Album) [Remastered]
+LIRI Log: Preview URL: https://p.scdn.co/mp3-preview/b176774bc04182501c2d5d201afda143b1193f31?cid=329b740270334bb79e12a4a12b71fb64
+LIRI Log: ======================
+
+LIRI Log: Song Name: The Sign
+LIRI Log: Artist: Ace of Base
+LIRI Log: Album: Greatest Hits
+LIRI Log: Preview URL: https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=329b740270334bb79e12a4a12b71fb64
+LIRI Log: ======================
+
+LIRI Log: Song Name: Don't Turn Around
+LIRI Log: Artist: Ace of Base
+LIRI Log: Album: The Sign (US Album) [Remastered]
+LIRI Log: Preview URL: https://p.scdn.co/mp3-preview/9c8401c8142bdd011e51f0211be2e2d4afcd5cff?cid=329b740270334bb79e12a4a12b71fb64
+LIRI Log: ======================
+
+LIRI Log: Song Name: Wheel of Fortune
+LIRI Log: Artist: Ace of Base
+LIRI Log: Album: The Sign (US Album) [Remastered]
+LIRI Log: Preview URL: https://p.scdn.co/mp3-preview/fd501a60ee611fda1dbb1c238d802fece5880dfc?cid=329b740270334bb79e12a4a12b71fb64
+LIRI Log: ======================
+
